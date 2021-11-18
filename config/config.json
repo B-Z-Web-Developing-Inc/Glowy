@@ -2,11 +2,11 @@
     "ip": "127.0.0.1",
     "config": "",
     "enableRegister": true,
-    "port": 8040,
+    "port": 3306,
     "mysql": {
-        "host": "127.0.0.1",
-        "user": "root",
-        "password": "password",
-        "database": "projects"
+        "host": "sql5.freesqldatabase.com",
+        "user": "sql5451366",
+        "password": "rB3WGQarcC",
+        "database": "sql5451366"
     }
 }
